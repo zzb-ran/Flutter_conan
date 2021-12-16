@@ -85,7 +85,7 @@ class _ConanState extends State<Conan> with AutomaticKeepAliveClientMixin {
 /*
   -- 柯南详情列表 --
   @scrollController 滑动控制器 ScrollController
-  @conanList: 天气列表 List
+  @conanList: 柯南列表 List
 **/
 class ConanList extends StatelessWidget {
   const ConanList({
