@@ -1,0 +1,26 @@
+{
+    "folders": [
+        {
+            "path": "..\\my-react-app"
+        },
+        {
+            "path": "..\\my-vite-react-app"
+        },
+        {
+            "path": "..\\node.js"
+        },
+        {
+            "path": "..\\dwf_md"
+        },
+        {
+            "path": "..\\myNes"
+        },
+        {
+            "path": "..\\桌面杂\\DWF3.0\\modeler-web"
+        }
+    ],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "myNes",
+        "liveServer.settings.port": 5501
+    }
+}
