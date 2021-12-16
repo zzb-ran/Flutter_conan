@@ -1,6 +1,6 @@
 # flutter_app
 
-A new Flutter project.
+A new Flutter project. 图片文件夹没有
 
 ## Getting Started
 
